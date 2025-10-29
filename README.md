@@ -1,4 +1,4 @@
-# angular7PROJ
-simple tabe with sort
+# Github pages
+simple application
 
-[Link to other page]
+![Link to other page]./docs/assets/img/shri_mataji.avif
